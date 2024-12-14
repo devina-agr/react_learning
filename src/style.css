@@ -5,10 +5,10 @@
 .todo_container{
  background-color: #ffffff;
     width: 20%;
-    height: 25%;
+    height: 30%;
     border-radius: 20px;
     margin-left: 38%;
-    margin-top: 10%;
+    margin-top: 3%;
 
 }
 
@@ -32,8 +32,10 @@
     background-color: #ffffff;
     display: flex;
     justify-content: center;
-    margin-left: 35%;
-    margin-bottom: 20px;
+    margin-left: 15%;
+    width: 70%;
+    border-radius: 20px;
+
 }
 
 .text{
@@ -42,4 +44,63 @@
 
 .option{
     background-color: #ffffff;
+}
+.Count{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+.count_display{
+    background-color: #ffffff;
+    margin-left: 5px;
+}
+.count_button{
+    background-color: #ffffff;
+    width: 30%;
+    height: 20%;
+    border-radius: 20px;
+    margin-top: 6%;
+    margin-left: 1%;
+}
+.value{
+    background-color: #ffffff;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 35%;
+
+}
+.counter{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.useEffect{
+    background-color: #ffffff;
+    color: #bd08bc;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+.update{
+    background-color: #ffffff;
+    height: 20%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.stopwatch{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.time{
+    border-radius: 20px;
+    width: 30%;
+    margin-left: 10px;
+    align-items: center;
+    padding-left: 30px;
 }
