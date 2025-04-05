@@ -32,10 +32,10 @@ App.js is the main component of the application. The code in this file is writte
 It is the file that includes the styling of the application.
 
 * ### package.json:
-It is the file that includes all the dependencies, scripts, and metadata of the project. It is bascially the configuration file of the project.
+It is the file that includes all the dependencies, scripts, and metadata of the project. It is basically the configuration file of the project.
 
 
-In react components are the building blocks of the application. Every function in react is a component. Components are reusable and can be used in other components.
+In react components are the building blocks of the application. Every function in React is a component. Components are reusable and can be used in other components.
 
 Example of a component:
 
@@ -59,7 +59,7 @@ There are two types of components in react:
 * Functional Components
 * Class Components
 
-Exapmle of a functional component:
+Example of a functional component:
 
 
           function MyFunction() {
@@ -80,7 +80,7 @@ It makes the component dynamic and more **generic**.
 This statement is used when we need to check if the props passed is completed then do a certain task, else do another task.
 
 
-In the compnent we can use the ternary operator to check the condition.
+In the component we can use the ternary operator to check the condition.
 
      {props.completed ? <></> : <input type="checkbox"/>}
 
@@ -121,7 +121,7 @@ Here state is the variable that holds the value of the state and setState is the
 
 ### 2) useEffect hook:
 
-It run code during the change in the lifecycle of the component.
+It runs code during the change in the lifecycle of the component.
 
 _Syntax of the useEffect hook:_
 
